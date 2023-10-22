@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 This is added text for practicing git diff
+
+Adding text after git add
