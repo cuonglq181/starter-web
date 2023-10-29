@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
 
+	Cuong Le -- BSW dev - Git trainning
+
 # THANKS
 
     <name>
