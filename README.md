@@ -11,3 +11,5 @@ This is added text for practicing git diff
 Adding text after git add
 
 Practing git diff --cached
+
+###Copyright CuongLe 2023, git training
