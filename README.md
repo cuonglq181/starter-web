@@ -14,4 +14,6 @@ Practing git diff --cache
 
 Add some text into README
 
+Add text in README file
+
 ###Copyright CuongLe 2023, git training
