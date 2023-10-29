@@ -9,7 +9,8 @@
 
 # THANKS
 
-    <name>
+    <name> LE CUONG
+	GIT TRAINING
 
 # TECHNOLOGY COLOPHON
 
