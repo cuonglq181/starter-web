@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 This is added text for practicing git diff
 
 Adding text after git add
+
+Practing git diff --cached
