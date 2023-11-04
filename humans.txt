@@ -8,6 +8,7 @@
 	Cuong Le -- BSW dev - Git trainning
 
 # THANKS
+Remote: change humans.txt
 
     <name> LE CUONG
 	GIT TRAINING
